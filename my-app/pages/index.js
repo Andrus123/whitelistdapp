@@ -190,7 +190,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Ricochet</h1>
+          <h1 className={styles.title}>Welcome to Runners's whitelist</h1>
           <div className={styles.description}>
             Its an NFT collection for runners in Crypto
           </div>
